@@ -1,2 +1,48 @@
-﻿  main.cpp
-  Omega_CVaR_Cardi.vcxproj -> C:\Users\ErisGrey\source\repos\Omega_CVaR_Cardi\x64\Debug\Omega_CVaR_Cardi.exe
+﻿  instance.cpp
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(37,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(40,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(50,20): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(50,20): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(50,20): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(50,20): warning C4244:             _Ty=int
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(50,20): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(77,28): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(77,28): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(77,28): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(77,28): warning C4244:             _Ty=float
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(77,28): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(88,23): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(88,23): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(88,23): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(88,23): warning C4244:             _Ty=float
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(88,23): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(121,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\instance.cpp(122,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  solver.cpp
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(22,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(52,14): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(52,14): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(52,14): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(52,14): warning C4244:             _Ty=float
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(52,14): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(53,14): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(53,14): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(53,14): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(53,14): warning C4244:             _Ty=float
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(53,14): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(122,82): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(122,82): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(122,82): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(122,82): warning C4244:             _Rep=__int64
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(122,82): warning C4244:         ]
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(231,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(352,69): warning C4244: '+=': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(363,69): warning C4244: '+=': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(372,56): warning C4244: 'argument': conversion from 'IloNum' to '_Ty', possible loss of data
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(372,56): warning C4244:         with
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(372,56): warning C4244:         [
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(372,56): warning C4244:             _Ty=float
+C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\Omega_CVaR_Cardi\solver.cpp(372,56): warning C4244:         ]
+  Generating Code...
+  Omega_CVaR_Cardi.vcxproj -> C:\Users\ErisGrey\Desktop\Omega_CVaR_Cardi\x64\Debug\Omega_CVaR_Cardi.exe

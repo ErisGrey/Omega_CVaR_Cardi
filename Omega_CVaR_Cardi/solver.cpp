@@ -379,7 +379,7 @@ void Solver::write_output()
 	string output_name;
 	std::stringstream ss;
 	ss << std::fixed << std::setprecision(2) << alpha;
-	string dir = "C:/Omega_CVaR_Cardi/";
+	string dir = "C:/Omega_CVaR_Cardi_output/";
 	output_name = dir + "Woutput_" + to_string(instance->frame) + "_" + ss.str() + ".csv";
 	cout << min_weight << endl;		
 	cout << max_weight << endl;
